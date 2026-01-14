@@ -17,17 +17,17 @@ The analysis includes:
 
 # Repository Structure
 
-| File | Description |
+| File | (Description)
 |
-| `Venkateswaran_TermPaper_MunicipalBonds.pdf` | Main paper |
-| `Venkateswaran_TermPaper_Mathematical_Appendix.pdf` | Estimation derivations and Bayesian details |
-| `Venkateswaran_TermPaper_Appendix.pdf` | Robustness and falsification tests |
-| `Venkateswaran_TermPaper_PythonCode.pdf` | Full replication code |
-| `FREDCPIAUCSL.csv` | CPI data (FRED) |
+| `Venkateswaran_TermPaper_MunicipalBonds.pdf` | (Main paper)
+| `Venkateswaran_TermPaper_Mathematical_Appendix.pdf` | (Estimation derivations and Bayesian details)
+| `Venkateswaran_TermPaper_Appendix.pdf` | (Robustness and falsification tests)
+| `Venkateswaran_TermPaper_PythonCode.pdf` | (Full replication code)
+| `FREDCPIAUCSL.csv` | (CPI data (FRED))
 | `MICH.csv` | Michigan inflation expectations (FRED) |
-| `DGS10.csv` | 10-year Treasury yield (FRED) |
-| `SP500MUNIBOND.xls` | S&P Municipal Bond Index |
-| `SP5500GREENBOND.xls` | S&P Municipal Green Bond Index |
+| `DGS10.csv` | (10-year Treasury yield (FRED))
+| `SP500MUNIBOND.xls` | (S&P Municipal Bond Index)
+| `SP5500GREENBOND.xls` | (S&P Municipal Green Bond Index)
 
 # Requirements
 
